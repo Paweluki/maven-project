@@ -26,4 +26,4 @@ public class HelloMavenTest extends FunctionalTestCase {
     }
 
 }
- 
+  
